@@ -1,6 +1,6 @@
-// PatientForm.cs
+﻿// PatientForm.cs
 // Hospital Management System - Patient Management
-// Group: Saliha Noor (24i-3066), Sajal Ishtiaq (24i-3041)
+// Author: XREFS0
 
 using System;
 using System.Data;

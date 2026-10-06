@@ -130,7 +130,7 @@ namespace HospitalManagement
             this.lblSubtitle.Name = "lblSubtitle";
             this.lblSubtitle.Size = new System.Drawing.Size(600, 38);
             this.lblSubtitle.TabIndex = 1;
-            this.lblSubtitle.Text = "Saliha Noor (24i-3066)  |  Sajal Ishtiaq (24i-3041)";
+            this.lblSubtitle.Text = "Developed by XREFS0";
             this.lblSubtitle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // LoginForm

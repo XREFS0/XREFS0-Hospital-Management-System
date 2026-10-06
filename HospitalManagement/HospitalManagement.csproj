@@ -12,7 +12,7 @@
     <AssemblyName>HospitalManagement</AssemblyName>
     <Version>1.0.0</Version>
     <Description>Hospital Appointment and Patient Management System - SQLite edition</Description>
-    <Company>FAST NUCES</Company>
+    <Company>XREFS0</Company>
   </PropertyGroup>
 
   <ItemGroup>

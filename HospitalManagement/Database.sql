@@ -1,6 +1,6 @@
 -- Database.sql
 -- Hospital Management System - SQLite schema and seed data
--- Group: Saliha Noor (24i-3066), Sajal Ishtiaq (24i-3041)
+-- Author: XREFS0
 --
 -- Usage (optional):
 --   The app auto-creates hospital.db on first run via DBHelper.EnsureDatabase().

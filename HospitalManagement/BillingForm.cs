@@ -1,6 +1,6 @@
-// BillingForm.cs
+﻿// BillingForm.cs
 // Hospital Management System - Billing
-// Group: Saliha Noor (24i-3066), Sajal Ishtiaq (24i-3041)
+// Author: XREFS0
 
 using System;
 using System.Data;

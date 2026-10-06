@@ -224,7 +224,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Authors
 
-- Saliha Noor (24i-3066)
-- Sajal Ishtiaq (24i-3041)
-
-Developed as an Open Ended Lab (OEL) course project at FAST NUCES.
+- XREFS0 - [https://github.com/XREFS0](https://github.com/XREFS0)

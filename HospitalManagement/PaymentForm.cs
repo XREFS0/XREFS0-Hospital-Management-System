@@ -1,6 +1,6 @@
-// PaymentForm.cs
+﻿// PaymentForm.cs
 // Hospital Management System - Payment Recording
-// Group: Saliha Noor (24i-3066), Sajal Ishtiaq (24i-3041)
+// Author: XREFS0
 
 using System;
 using System.Data;
